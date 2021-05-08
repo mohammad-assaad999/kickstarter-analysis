@@ -1,6 +1,3 @@
-# Kickstarter Campaigns Analysis
-Performing Analysis on Kickstarter Data to Uncover Trends
-
 # Kickstarter Campaigns Challenge Analysis 
 ## Overview of the Project
 In this project, I'll be using a large fundraising campaings datasets to apply effecient techniques likee pivot tables and formulas on excel, analyze the results, and propose the best conlcusions. The purpose of all of this is to help Louise in her fundraising campaign in a short period of time by making analysis and looking at some criteria like the outcomes and the launch date of other campaigns. 
